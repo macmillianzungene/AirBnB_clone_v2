@@ -1,4 +1,4 @@
-At s is the AirBnB Clone Web Static
+This is the AirBnB clone Web Static
  It's goal is that you are able to understand and be able to explain without using any form of help in regards to the following:
 
 What is HTML?
